@@ -3,7 +3,7 @@
     color: blue;
   }
   
-  button {
+  /* button {
     font-weight: 600;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -12,10 +12,12 @@
     border-radius: 5px;
     border-style: hidden;
     padding: 5px 10px;
-  }
+  } */
 
 /* From uiverse.io by @kirzin */
 button {
+  height: 45px;
+  width: 120px;
   font-weight: 800;
   margin-top: 10px;
   margin-bottom: 10px;
